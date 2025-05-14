@@ -194,7 +194,7 @@ window.onclick = function(event) {
 
   </script>
   <footer>
-    <h2 align="center">Designed and developed by Harika S</h2>
+    <h2 align="center">Designed and developed by K.R.KIRUTIKA</h2>
   </footer>
 </body>
 </html
